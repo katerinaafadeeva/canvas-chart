@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  display: flex;
+  min-height: 100vh;
+}
+#chartCanvas {
+  margin: auto;
+  background-color: 11eE1E;
+}
